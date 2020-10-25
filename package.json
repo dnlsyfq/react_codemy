@@ -1,0 +1,15 @@
+{
+  "name": "react_codemy",
+  "version": "1.0.0",
+  "description": "```\r const h1 = <h1>Hello world</h1>;\r ```",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
