@@ -209,3 +209,30 @@ class MyName extends React.Component {
 
 ReactDOM.render(<MyName />, document.getElementById('app'));
 ```
+
+### Event Listener
+
+Event handler is a function that gets called in response to an event 
+```
+render() {
+  return (
+    <div onHover={myFunc}>
+    </div>
+  );
+}
+```
+
+```
+class MyClass extends React.Component {
+    myFunc(){
+        alert('Stop it. Stop hovering.');
+    }
+    
+    render(){
+        return (
+            <div onHover={this.myFunc}>
+            </div>
+        )
+    }
+}
+```
