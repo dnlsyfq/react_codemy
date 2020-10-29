@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f6c3d8b-6adc-48ab-ab5a-b68bdb32b5bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ReactComponent.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactComponent.md" beforeDir="false" afterPath="$PROJECT_DIR$/ReactComponent.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +66,8 @@
       <workItem from="1603300019794" duration="71000" />
       <workItem from="1603560193963" duration="5549000" />
       <workItem from="1603600772325" duration="8648000" />
-      <workItem from="1603732782950" duration="3461000" />
+      <workItem from="1603732782950" duration="3846000" />
+      <workItem from="1603943944511" duration="4950000" />
     </task>
     <servers />
   </component>
@@ -83,6 +84,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="958" y="274" key="FileChooserDialogImpl" timestamp="1603300089026">
